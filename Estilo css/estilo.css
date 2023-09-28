@@ -1,0 +1,30 @@
+body{background-color: #7f8188;}
+
+h1{color:rgb(211, 211, 211);
+background-color: rgb(1, 92, 92);
+width: 60%;
+text-align: center;
+font-size: xx-larges;}
+
+h2{color: black;
+width: 60%;
+text-align: left;
+font-size: x-large;}
+
+h3{color: rgb(211, 211, 211);
+background-color: rgb(1, 92, 92);
+width: 60%;}
+
+h3{color: rgb(211, 211, 211);
+    background-color: rgb(1, 92, 92);
+    width: 48%;}
+
+a{color: rgb(1,92,92);
+    background-color: rgb(211, 211, 211);
+font-size: larger;}
+
+img{width: 48%;
+height:40% ;}
+
+#Titulo2{color: rgb(1, 92, 92);
+background-color: rgb(211, 211, 211);}
